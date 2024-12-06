@@ -1,5 +1,5 @@
 # Project with MongoDB
-explore MongoDB and PyMongo, a Python library for interacting with MongoDB
+Explore MongoDB and PyMongo, a Python library for interacting with MongoDB
 
 ## Task-1 Create and Insert Student Document
 Objective:
