@@ -1,0 +1,87 @@
+[{
+  "_id": "91237649292",
+  "name": "Ben Linus",
+  "birth_year": 2009,
+  "courses": [
+    {
+      "_id": "ain1001",
+      "name": "Computer Programming I (Pyhton)",
+      "grade": "A-",
+      "lecturer": {
+        "_id": " 26416956694",
+        "name": "Jack Shephard"
+      },
+      "schedule": {
+        "_id": "schedule101",
+        "start_time": "2023-11-28T10:00:00Z",
+        "end_time": "2023-11-28T12:00:00Z",
+        "room": "A101"
+      },
+      "credit": 3.67
+    },
+    {
+      "_id": "ain1002",
+      "name": "Computer Programming II (C++)",
+      "grade": "B+",
+      "lecturer": {
+        "_id": "94424438570",
+        "name": "Kate Austen"
+      },
+      "schedule": {
+        "_id": "schedule202",
+        "start_time": "2023-11-29T13:00:00Z",
+        "end_time": "2023-11-29T15:00:00Z",
+        "room": "B202"
+      },
+      "credit": 3.33
+    },
+    {
+      "_id": "ain3005",
+      "name": "Advanced Pyhton",
+      "grade": "C-",
+      "lecturer": {
+        "_id": "17289807236",
+        "name": "John Sanjuan"
+      },
+      "schedule": {
+        "_id": "schedule305",
+        "start_time": "2023-11-30T16:00:00Z",
+        "end_time": "2023-11-30T19:00:00Z",
+        "room": "DSC01"
+      },
+      "credit": 1.67
+    },
+    {
+      "_id": "ain2001",
+      "name": "Data Science",
+      "grade": "D+",
+      "lecturer": {
+        "_id": " 3467890123",
+        "name": "Emily Larson"
+      },
+      "schedule": {
+        "_id": "schedule201",
+        "start_time": "2023-11-29T09:00:00Z",
+        "end_time": "2023-11-29T12:00:00Z",
+        "room": "D307"
+      },
+      "credit": 1.33
+    },
+    {
+      "_id": "ain3003",
+      "name": "Database Systems and Cloud Computing",
+      "grade": "B",
+      "lecturer": {
+        "_id": "7320652441",
+        "name": "Oscar Brown"
+      },
+      "schedule": {
+        "_id": "schedule303",
+        "start_time": "2023-11-30T12:00:00Z",
+        "end_time": "2023-11-30T15:00:00Z",
+        "room": "B404"
+      },
+      "credit": 3
+    }
+  ]
+}]
