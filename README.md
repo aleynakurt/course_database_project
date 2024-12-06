@@ -3,7 +3,9 @@ explore MongoDB and PyMongo, a Python library for interacting with MongoDB
 
 ## Task-1 Create and Insert Student Document
 Objective:
+
 • Construct a new document representing a student with specific fields.
+
 • Persist the document in the baudb database, students collection.
 
 ## Task-2: Find Students with Specific Grade in Course
